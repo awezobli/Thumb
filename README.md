@@ -2,6 +2,14 @@
 
 A simple, local image only, thumbnail generation script written in PHP with a file based cache and optional browser based cache.
 
+---
+
+## LinkedIn Post Copier (wtyczka Chrome/Edge)
+
+W tym repo jest też katalog `linkedin-post-copier-extension/` z minimalną wtyczką, która dodaje na LinkedIn przycisk **„Kopiuj”** do kopiowania treści posta do schowka.
+
+Instrukcja instalacji i użycia: `linkedin-post-copier-extension/README.md`.
+
 ## Example Usage
 
 Firstly, make sure your cache directory is writable, then access the script like so:
